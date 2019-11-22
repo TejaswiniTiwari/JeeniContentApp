@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--<color name="colorPrimary">#008577</color>-->
+    <!--<color name="colorPrimaryDark">#00574B</color>-->
+    <!--<color name="colorAccent">#D81B60</color>-->
+
+    <color name="colorPrimary">#FF92C02D</color>
+    <color name="colorPrimaryDark">#FF7BA227</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="colorBlack">#000000</color>
+    <color name="colorGrey">#4c4c4c</color>
+
+    <color name="black_overlay">#66000000</color>
+    <color name="green_overlay">#6692C02D</color>
+
+
+
+    <color name="gray">#66C4C2C2</color>
+    <!--Colors for sync status-->
+    <color name="yellow">#FFFDD835</color>
+    <color name="red">#FFE53935</color>
+    <color name="green">#FF7CB342</color>
+
+
+</resources>

@@ -1,0 +1,23 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.tech.fairshare.mycontactapplication.MainActivity">
+
+
+    <item
+        android:id="@+id/action_new_content"
+        android:icon="@drawable/new_content"
+        android:title="New Content"
+        app:actionLayout="@layout/custom_action_item_layout"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/action_my_files"
+        android:title="My Files"
+        app:actionLayout="@layout/custom_action_item_layout"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/action_log_out"
+        android:title="Logout"
+        app:actionLayout="@layout/custom_action_item_layout"
+        app:showAsAction="never"/>
+</menu>
